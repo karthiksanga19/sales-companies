@@ -1,6 +1,6 @@
 <html>
 <body>
 <h1>Home page</h1>
-<p>sales all comapnies analysis</P>
+<p>sales all comapnies total analysis</P>
 </body>
 </html>
